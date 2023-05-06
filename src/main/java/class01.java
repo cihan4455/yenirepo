@@ -10,6 +10,8 @@ public class class01 {
         int z=4;
         System.out.println(x+y+z);
         System.out.println("1v3 kod");
+        System.out.println("okk");
+
 
 
 
