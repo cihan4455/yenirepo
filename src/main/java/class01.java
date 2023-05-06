@@ -11,6 +11,7 @@ public class class01 {
         System.out.println(x+y+z);
         System.out.println("1v3 kod");
         System.out.println("okk");
+        //v6 için ye çal
 
 
 
