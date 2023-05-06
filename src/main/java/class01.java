@@ -14,6 +14,7 @@ public class class01 {
         //v6 için ye çal
         //v7 çlişması
         // v8 cihanbey
+        // 55555
 
 
 
