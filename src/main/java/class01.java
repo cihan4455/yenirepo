@@ -13,6 +13,7 @@ public class class01 {
         System.out.println("okk");
         //v6 için ye çal
         //v7 çlişması
+        // v8 cihan
 
 
 
